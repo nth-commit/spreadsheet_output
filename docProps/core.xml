@@ -5,8 +5,8 @@
     xmlns:dcterms="http://purl.org/dc/terms/" 
     xmlns:dcmitype="http://purl.org/dc/dcmitype/" 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <dc:creator>Gabriel Carpenter</dc:creator>
-    <cp:lastModifiedBy>Gabriel Carpenter</cp:lastModifiedBy>
-    <dcterms:created xsi:type="dcterms:W3CDTF">2016-10-21T11:11:13Z</dcterms:created>
-    <dcterms:modified xsi:type="dcterms:W3CDTF">2016-10-24T16:36:55Z</dcterms:modified>
+    <dc:creator>Michael Fry-White</dc:creator>
+    <cp:lastModifiedBy>Michael Fry-White</cp:lastModifiedBy>
+    <dcterms:created xsi:type="dcterms:W3CDTF">2017-09-08T10:23:00Z</dcterms:created>
+    <dcterms:modified xsi:type="dcterms:W3CDTF">2017-09-08T10:23:00Z</dcterms:modified>
 </cp:coreProperties>

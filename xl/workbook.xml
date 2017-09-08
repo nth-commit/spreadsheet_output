@@ -9,12 +9,12 @@
     <mc:AlternateContent 
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
         <mc:Choice Requires="x15">
-            <x15ac:absPath url="\\wuk3007\Shared\excel_tests\" 
+            <x15ac:absPath url="C:\Excel\20170908_TFS40911_Structure_Password_Failure\work\" 
                 xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac"/>
         </mc:Choice>
     </mc:AlternateContent>
     <bookViews>
-        <workbookView xWindow="0" yWindow="0" windowWidth="19200" windowHeight="11595"/>
+        <workbookView xWindow="0" yWindow="0" windowWidth="21570" windowHeight="8145"/>
     </bookViews>
     <sheets>
         <sheet name="Sheet1" sheetId="1" r:id="rId1"/>
@@ -23,11 +23,5 @@
         <definedName name="maxred">Sheet1!$A$1:$A$20</definedName>
         <definedName name="yelmin">Sheet1!$B$1:$B$20</definedName>
     </definedNames>
-    <calcPr calcId="152511"/>
-    <extLst>
-        <ext uri="{140A7094-0E35-4892-8432-C4D2E57EDEB5}" 
-            xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main">
-            <x15:workbookPr chartTrackingRefBase="1"/>
-        </ext>
-    </extLst>
+    <calcPr calcId="0" fullCalcOnLoad="1" iterateDelta="1E-4"/>
 </workbook>
